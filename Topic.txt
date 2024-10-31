@@ -1,0 +1,7 @@
+
+লাইভ ক্লাস
+
+৫ জানু, রাত ১০:০০
+
+মডিউল ১৪ এর কনসেপচুয়াল ক্লাস | Adding Soft Delete and Force Delete Feature on Our Post App | 
+Add Strong Password Validation on Our Custom Authentication Project
